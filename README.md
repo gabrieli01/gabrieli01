@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @gabrieli01
+- 👋 Hi, I’m @gabrieli01 e meu email de contato é giovana.santos.lima@escola.pr.gov.br
 - 👀 I’m interested in  aprender e programar novas linguagens.
 - 🌱 I’m currently learning a programar recentemente linguagem de JavaScript e  Scratch
