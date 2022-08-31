@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @gabrieli01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
+- 👀 I’m interested in  aprender e programar novas linguagens.
+- 🌱 I’m currently learning
